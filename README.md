@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# PetShop - Dev 🐾
 
-## Getting Started
+Bem-vindo ao **PetShop - Dev**, uma landing page moderna e responsiva para um petshop, desenvolvida utilizando **Next.js, ShadCN e TailwindCSS**. O objetivo do projeto é fornecer uma interface atraente e intuitiva para apresentar os serviços e produtos do petshop.
 
-First, run the development server:
+## 🚀 Tecnologias Utilizadas
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+- [Next.js](https://nextjs.org/) - Framework React para aplicações modernas.
+- [ShadCN](https://ui.shadcn.com/) - Biblioteca de componentes acessíveis e estilizados.
+- [TailwindCSS](https://tailwindcss.com/) - Framework CSS para estilização rápida e eficiente.
+
+## 📸 Demonstração
+
+🔗 **Link do projeto:** [https://pet-shop-dev-chi.vercel.app/]
+
+## 📦 Instalação
+
+Antes de iniciar, certifique-se de ter o **Node.js** e o **npm/yarn/pnpm** instalados em sua máquina.
+
+### 1️⃣ Clone o repositório
+
+```sh
+git clone https://github.com/seu-usuario/petshop-dev.git
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2️⃣ Acesse o diretório do projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```sh
+cd petshop-dev
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 3️⃣ Instale as dependências
 
-## Learn More
+#### Usando npm:
 
-To learn more about Next.js, take a look at the following resources:
+```sh
+npm install
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+#### Usando yarn:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+```sh
+yarn install
+```
 
-## Deploy on Vercel
+#### Usando pnpm:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```sh
+pnpm install
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## ▶️ Executando o projeto
+
+Após a instalação, inicie o servidor de desenvolvimento:
+
+```sh
+npm run dev  # ou yarn dev / pnpm dev
+```
+
+O projeto estará disponível em:
+
+```
+http://localhost:3000
+```
+
+## 📌 Funcionalidades
+
+✅ Design moderno e responsivo 📱💻
+✅ Seções para apresentação dos serviços e produtos 🐕🐈
+✅ Botão de contato e integração com WhatsApp 📞
+✅ Animações e efeitos visuais 🌟
+
